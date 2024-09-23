@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/HTML-Sea-Shanty/HTML-sea-shanty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LiteCoin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Vampires" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api/iss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api/iss_spotter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api/json_the_cat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async/cats" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async/spinner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async/timer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/async/typewriter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootcampx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/focal/debugging-errors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/focal/joinList.js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/focal/lunch.js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/focal/min" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/focal/objects/music_library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightbnb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lighthouse-web-notes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lotide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mock-programming-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/net/pair-programming-word-search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/page-fetcher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/profile_generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/programming-test-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/programming-test-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/programming-test-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/programming-test-5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/snake-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/snek-multiplayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tinyapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tweeter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webPalin/web-js-palindromes" vcs="Git" />
+  </component>
+</project>

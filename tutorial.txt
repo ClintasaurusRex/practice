@@ -1,0 +1,7 @@
+this is vim Got a handle on those three? Here are some other commands in command mode. And remember, these commands are case-sensitive, so take note of those stray capital letters:
+
+    Y copies a line of text to the buffer.
+    P pastes it to the cursor's current position.
+    dd will delete the whole line of text. This will also effectively "cut" a line of text as well. When you delete a line, it's placed in the buffer.
+    yy copies a whole line of text.
+
